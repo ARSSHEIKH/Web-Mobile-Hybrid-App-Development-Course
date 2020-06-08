@@ -666,3 +666,103 @@ else {
         document.write("Sorry! Wrong Format ...");
     }
 */
+//Chapter 14-16
+//Task1:
+
+// var studentsName = []
+
+// alert("All Students: \n" + students);
+
+//Task8:
+/*
+    var studentnames = ["Shoaib", "Sohail", "Sohaib"];
+    var score = [320, 280, 480];
+    var totalMarks = 500;
+
+    document.write("Score of ", studentnames[0], " is ", score[0], ". Percentage: ", score[0]*100/500, "% <br>");
+    document.write("Score of ", studentnames[1], " is ", score[1], ". Percentage: ", score[1]*100/500, "% <br>");
+    document.write("Score of ", studentnames[2], " is ", score[2], ". Percentage: ", score[2]*100/500, "% <br>");
+*/
+//Task9:
+    // var color_names = [5];
+    // color_names[0] = prompt("Enter any color to add in the beginning : ");
+    // document.write(`<h1 style="text-align: center; margin-top:200px; color:`, color_names[0], `">`,
+    //                         color_names[0],
+    //                 `</h1>`);
+
+    
+    // color_names[4] = prompt("Enter any color to add at the end : ");
+    // document.write(`<h1 style="text-align: center; margin-top:200px; color:`, color_names[4], `">`,
+    //                         color_names[4],
+    //                 `</h1>`);
+
+    // color_names[4] = prompt("Enter any color to add at the end : ");
+    // document.write(`<h1 style="text-align: center; margin-top:200px; color:`, color_names[4], `">`,
+    //                         color_names[4],
+    //                 `</h1>`);
+    // color_names[4] = prompt("Enter any color to add at the end : ");
+    // document.write(`<h1 style="text-align: center; margin-top:200px; color:`, color_names[4], `">`,
+    //                         color_names[4],
+    //                 `</h1>`);
+
+//Task10:
+/*
+    var  studentscores = [320, 280, 480, 120];
+    document.write("Scores of students: ", studentscores, '<br>');
+
+    document.write("Ordered scores of students: ", studentscores.sort());
+*/
+
+//Task11:
+/*
+    var citynames= ["Karachi", "Lahore", "Islamabad", "Peshawar", "Quetta"];
+    var selectedCities= citynames.slice(2, 4);
+*/
+
+//Task12:
+/*
+    document.write("Cities Lists: ", citynames, '<br>');
+    document.write("Selected Cities: ", selectedCities);
+*/
+
+//Task13:
+/*
+    var devices = [3]
+    devices[0]= prompt("Enter 1st device: ");
+    devices[1]= prompt("Enter 2nd device: ");
+    devices[2]= prompt("Enter 3rd device: ");
+
+    document.write("Devices: ", devices, '<br>');
+    document.write(devices[0], '<br>',devices[1], '<br>' ,devices[2], '<br>'  );
+*/
+
+//Task14:
+/*
+    var devices = [3]
+    devices[0]= prompt("Enter 1st device: ");
+    devices[1]= prompt("Enter 2nd device: ");
+    devices[2]= prompt("Enter 3rd device: ");
+
+    document.write("Devices: ", devices, '<br>');
+    document.write(devices[2], '<br>',devices[1], '<br>' ,devices[0], '<br>'  );
+
+*/
+//Task15:
+var manufacturers = ["Apple", "Samsung", "Motorola", "Nokia", "Sony", "Haier"]
+document.write
+            (
+                `
+                <select>
+                    <option value="">`,manufacturers[0],`</option>
+                    <option value="">`,manufacturers[1],`</option>
+                    <option value="">`,manufacturers[2],`</option>
+                    <option value="">`,manufacturers[3],`</option>
+                    <option value="">`,manufacturers[4],`</option>
+                    <option value="">`,manufacturers[5],`</option>
+                </select>
+                `
+            );
+
+
+
+
