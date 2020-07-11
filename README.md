@@ -1,7 +1,3 @@
-# Web-Mobile-Hybrid-App-Development-Course-Saylani
-
-All JS Assignment
-
-from book:
+# Digital Stopwatch
+  site-url: https://my-digitalstopwatch.web.app/
   
-  A Smarter Way to Learn JavaScript by Mark Myers
