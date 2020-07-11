@@ -1,2 +1,2 @@
 # Digital Stopwatch
-  site-url: ### https://my-digitalstopwatch.web.app/
+  site-url: https://my-digitalstopwatch.web.app/
