@@ -1,5 +1,5 @@
 # Chapters 1 to 67
-## Incomplete chapters will upload soon!
+## Incomplete chapters will be upload soon! (in 2-3 days)
 
 #### Chapters 1 to 25 have already uploaded on folders:
 
