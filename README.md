@@ -1,4 +1,4 @@
-# Web-Mobile-Hybrid-App-Development-Course-Saylani
+# Web-Mobile-Hybrid-App-Development-Course
 
 All JS Assignment	All JS Assignment
 from book	
